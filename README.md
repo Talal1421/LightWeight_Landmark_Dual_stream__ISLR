@@ -8,6 +8,10 @@
 
 This project at **King Saud University’s [Center of Smart Robotics Research (CS2R)](https://www.cs2r.net/)** explores lightweight recognition of Isolated Sign Language based on the Landmarks through a dual stream model. The model learns hand shape and the motion of the hands and upper body in separate streams. It takes landmark sequences as input and is evaluated on both familiar and held-out signers using **KSU-SSL** and **ArSL** Datasets.
 
+The system is designed for isolated sign recognition across sign languages. Current experiments evaluate Saudi Sign Language and Arabic Sign Language on KSU-SSL and ArSL, respectively.
+
+**Code** · Soon &nbsp; | &nbsp; **Paper** · Soon
+
 ![Recognition workflow from input video and MediaPipe landmarks through feature extraction, dual GRU streams, and sign classification](assets/recognition-workflow.png)
 
 **Model size** · 2.1 MB &nbsp; | &nbsp; **Trainable parameters** · 530,150
