@@ -1,4 +1,4 @@
-# Lightweight Landmark-Based Dual-Stream Isolated Sign Language Recognition | Ongoing research...
+# Lightweight Landmark-Based Dual-Stream Isolated Sign Language Recognition | May 2026
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -10,7 +10,7 @@ This project at **King Saud University’s [Center of Smart Robotics Research (C
 
 The system is designed for isolated sign recognition across sign languages. Current experiments evaluate Saudi Sign Language and Arabic Sign Language on KSU-SSL and ArSL, respectively.
 
-**Code** · Soon &nbsp; | &nbsp; **Paper** · Soon
+**Paper** · Soon
 
 ![Recognition workflow from input video and MediaPipe landmarks through feature extraction, dual GRU streams, and sign classification](assets/recognition-workflow.png)
 
